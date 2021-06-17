@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeChemfuelFromCorpse.label>очистить химтопливо от трупа
+</MakeChemfuelFromCorpse.label>
+  <MakeChemfuelFromCorpse.description>Стань свидетелем последнего этапа и света жизни.
+</MakeChemfuelFromCorpse.description>
+  <MakeChemfuelFromCorpse.jobString>Очистка Химтоплива от трупа
+</MakeChemfuelFromCorpse.jobString>
+
+  <MakeFertilizerFromCorpse.label>сделать удобрение из трупа
+</MakeFertilizerFromCorpse.label>
+  <MakeFertilizerFromCorpse.description>Измельчите мясо и поместите его в процесс брожения.Теперь мы получаем кровавое удобрение, которое полно питательных веществ
+</MakeFertilizerFromCorpse.description>
+  <MakeFertilizerFromCorpse.jobString>Очистка удобрения от трупа.
+</MakeFertilizerFromCorpse.jobString>
+
+  <BreedMaggotsWithCorpse.label>breed the maggots</BreedMaggotsWithCorpse.label>
+  <BreedMaggotsWithCorpse.description>The maggots in rimworld can grow and reproduce in unbelievable efficiency if they get enough corpses.They don't care about fresh or rotten, just don't give them the antiseptic one.</BreedMaggotsWithCorpse.description>
+  <BreedMaggotsWithCorpse.jobString>Breeding maggots with corpse.</BreedMaggotsWithCorpse.jobString>
+
+  <MakeProteinPowderFromCorpse.label>порошок протеина продукта с трупом
+</MakeProteinPowderFromCorpse.label>
+  <MakeProteinPowderFromCorpse.description>Не волнуйтесь, никто не узнает, что он на самом деле ест
+</MakeProteinPowderFromCorpse.description>
+  <MakeProteinPowderFromCorpse.jobString>Производства Протеиновых Порошков 
+</MakeProteinPowderFromCorpse.jobString>
+
+  <MakeProteinPowderFromMaggots.label>make ProteinPowder from maggots</MakeProteinPowderFromMaggots.label>
+  <MakeProteinPowderFromMaggots.description>Don't worry,nobody will find out what he is actually eating.</MakeProteinPowderFromMaggots.description>
+  <MakeProteinPowderFromMaggots.jobString>Producing ProteinPowder.</MakeProteinPowderFromMaggots.jobString>
+
+  <TakeBloodFromCorpse.label>взять кровь из трупа
+</TakeBloodFromCorpse.label>
+  <TakeBloodFromCorpse.description>Кровь не нужна мертвому телу, но необходима живому.
+</TakeBloodFromCorpse.description>
+  <TakeBloodFromCorpse.jobString>взятие крови из трупа
+</TakeBloodFromCorpse.jobString>
+
+  <MakeAntisepticCorpse.label>сделать труп антисептиком
+</MakeAntisepticCorpse.label>
+  <MakeAntisepticCorpse.description>Сделать труп, наполненный травами и завернутый в ткань.Похоже на маму, но так лучше.Когда вы снимите ткань,вы все равно получите тело без увядания и обезвоживания.
+</MakeAntisepticCorpse.description>
+  <MakeAntisepticCorpse.jobString>изготовление антисептического трупа
+</MakeAntisepticCorpse.jobString>
+
+
+</LanguageData>

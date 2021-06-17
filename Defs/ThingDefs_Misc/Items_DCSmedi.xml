@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <ThingDef ParentName="ResourceBase">
+    <defName>AntisepticCorpse</defName>
+    <label>antiseptic corpse</label>
+    <description>An corpse filled with herb and wrapped by cloth.Sounds like mummy,but it's better.Whenever you remove the cloth,you will still get a body without decay and dehydration.But don't even try to cook it as food.</description>
+    <graphicData>
+      <texPath>Things/Item/AntisepticCorpse</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.20</drawSize>
+    </graphicData>
+    <stackLimit>3</stackLimit>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <MarketValue>60</MarketValue>
+      <Mass>40</Mass>
+      <Flammability>0.7</Flammability>
+	  <DeteriorationRate>1.0</DeteriorationRate>
+		</statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  
+  <ThingDef ParentName="ResourceBase">
+		<defName>CorpseFertilizer</defName>
+		<label>corpse fertilizer</label>
+		<description>Grind the meat and put them in fermentation process.Now we get the bloody fertilizer which is full of nutrient.</description>
+		<graphicData>
+			<texPath>Things/Item/CorpseFertilizer</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<stackLimit>55</stackLimit>
+		<statBases>
+			<MaxHitPoints>15</MaxHitPoints>
+			<MarketValue>1</MarketValue>
+		     <Mass>0.35</Mass>
+			 <Flammability>0.9</Flammability>
+		</statBases>
+		<thingCategories>
+			<li>ResourcesRaw</li>
+		</thingCategories>
+	</ThingDef>
+  
+   <ThingDef ParentName="OrganicProductBase">
+    <defName>LargeMaggots</defName>
+    <label>large maggots</label>
+    <description>These squirming worms may be disgusting, but contain more proteins than mammal's meats.Great for feeding animals.Humans can eat them, but they really hate it.</description>
+    <thingCategories>
+      <li>Foods</li>
+    </thingCategories>
+    <graphicData>
+      <texPath>Things/Item/LargeMaggots</texPath>
+	  <graphicClass>Graphic_Single</graphicClass>
+	  <drawSize>0.85</drawSize>
+    </graphicData>
+    <socialPropernessMatters>true</socialPropernessMatters>
+	<stackLimit>75</stackLimit>
+    <statBases>
+      <MarketValue>1.1</MarketValue>
+      <Mass>0.015</Mass>
+      <Nutrition>0.06</Nutrition>
+      <FoodPoisonChanceFixedHuman>0.02</FoodPoisonChanceFixedHuman>
+    </statBases>
+    <ingestible>
+      <foodType>Kibble</foodType>
+      <preferability>RawBad</preferability>
+			<tasteThought>AteKibble</tasteThought>
+			<optimalityOffsetHumanlikes>-30</optimalityOffsetHumanlikes>
+      <optimalityOffsetFeedingAnimals>15</optimalityOffsetFeedingAnimals>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>RawVegetable_Eat</ingestSound>
+    </ingestible>
+    <comps>
+      <li Class="CompProperties_Ingredients" />
+    </comps>
+  </ThingDef>
+  
+  
+</Defs>

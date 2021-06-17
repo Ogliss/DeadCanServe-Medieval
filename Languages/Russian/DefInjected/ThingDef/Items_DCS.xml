@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BloodBag.label>мешок для крови
+</BloodBag.label>
+  <BloodBag.description>Кровь, взятая у человека, будет использоваться для другого человека в медицинском лечении
+</BloodBag.description>
+
+  <ProteinPowder.label>высоким содержанием кальция порошок протеина 
+</ProteinPowder.label>
+  <ProteinPowder.description>Удобная поставка с обильным питанием в закрытой банке.Не так аппетитно, но никто не будет связывать её с его первоначальным источником
+</ProteinPowder.description>
+
+  <AntisepticCorpse.label>труп-антисептик
+</AntisepticCorpse.label>
+  <AntisepticCorpse.description>Труп, наполненный травой и завернутый в ткань.Похоже на маму, но так лучше.Когда вы снимите ткань,вы все равно получите тело без увядания и обезвоживания.Но даже не пытайтесь приготовить его как еду
+</AntisepticCorpse.description>
+
+  <CorpseFertilizer.label>труп удобрения
+</CorpseFertilizer.label>
+  <CorpseFertilizer.description>Измельчите мясо и поместите его в процесс брожения.Теперь мы получаем кровавое удобрение, которое полно питательных веществ
+</CorpseFertilizer.description>
+
+  <LargeMaggots.label>large maggots</LargeMaggots.label>
+  <LargeMaggots.description>These squirming worms may be disgusting, but contain more proteins than mammal's meats.Great for feeding animals.Humans can eat them, but they really hate it.</LargeMaggots.description>
+
+
+</LanguageData>

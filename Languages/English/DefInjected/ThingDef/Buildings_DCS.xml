@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlanterCoffin.label>planter coffin(horizontal)</PlanterCoffin.label>
+  <PlanterCoffin.description>A corpse is the best source of nutrition for plants and the coffin is also perfect to be the planting box.With 214% fertility.</PlanterCoffin.description>
+  <PlanterCoffin_Blueprint.label>planter coffin(horizontal) (blueprint)</PlanterCoffin_Blueprint.label>
+  <PlanterCoffin_Frame.label>planter coffin(horizontal) (building)</PlanterCoffin_Frame.label>
+  <PlanterCoffin_Frame.description>A corpse is the best source of nutrition for plants and the coffin is also perfect to be the planting box.With 214% fertility.</PlanterCoffin_Frame.description>
+
+  <VerPlanterCoffin.label>planter coffin(vertical)</VerPlanterCoffin.label>
+  <VerPlanterCoffin.description>A corpse is the best source of nutrition for plants and the coffin is also perfect to be the planting box.With 214% fertility.</VerPlanterCoffin.description>
+  <VerPlanterCoffin_Blueprint.label>planter coffin(vertical) (blueprint)</VerPlanterCoffin_Blueprint.label>
+  <VerPlanterCoffin_Frame.label>planter coffin(vertical) (building)</VerPlanterCoffin_Frame.label>
+  <VerPlanterCoffin_Frame.description>A corpse is the best source of nutrition for plants and the coffin is also perfect to be the planting box.With 214% fertility.</VerPlanterCoffin_Frame.description>
+
+
+  <!-- Sculptures -->
+
+  <Crucifix_DCS.label>crucifix</Crucifix_DCS.label>
+  <Crucifix_DCS.description>The most lifelike sculpture can only be made with real life.If you let your spawns hide behind it,your opponents will just wonder which bodies they should aim at.</Crucifix_DCS.description>
+  <Crucifix_DCS_Blueprint_Install.label>crucifix (blueprint)</Crucifix_DCS_Blueprint_Install.label>
+
+  <CorpseIrrigator.label>corpse irrigator</CorpseIrrigator.label>
+  <CorpseIrrigator.description>First,dissolve the Corpse Fertilizer into a little tank,then you get the best nutrient solution. Second, build a statue with corpse which can piss the nutrition liquid periodically in adjustable direction.Now you get a artistic semi-auto Irrigator.With 333% fertility.</CorpseIrrigator.description>
+  <CorpseIrrigator_Blueprint.label>corpse irrigator (blueprint)</CorpseIrrigator_Blueprint.label>
+  <CorpseIrrigator_Frame.label>corpse irrigator (building)</CorpseIrrigator_Frame.label>
+  <CorpseIrrigator_Frame.description>First,dissolve the Corpse Fertilizer into a little tank,then you get the best nutrient solution. Second, build a statue with corpse which can piss the nutrition liquid periodically in adjustable direction.Now you get a artistic semi-auto Irrigator.With 333% fertility.</CorpseIrrigator_Frame.description>
+
+  <MaggotsBreeder.label>maggots breeder</MaggotsBreeder.label>
+  <MaggotsBreeder.description>These necrophagous maggots can grow and reproduce in unbelievable efficiency.Leave them with some antiseptic corpses to limit their appetites so that they won't consume the foods too soon then starve themselves.</MaggotsBreeder.description>
+  <MaggotsBreeder_Blueprint.label>maggots breeder (blueprint)</MaggotsBreeder_Blueprint.label>
+  <MaggotsBreeder_Frame.label>maggots breeder (building)</MaggotsBreeder_Frame.label>
+  <MaggotsBreeder_Frame.description>These necrophagous maggots can grow and reproduce in unbelievable efficiency.Leave them with some antiseptic corpses to limit their appetites so that they won't consume the foods too soon then starve themselves.</MaggotsBreeder_Frame.description>
+
+
+</LanguageData>

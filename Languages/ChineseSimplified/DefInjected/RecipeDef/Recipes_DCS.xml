@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeChemfuelFromCorpse.label>用尸体制作化合燃料</MakeChemfuelFromCorpse.label>
+  <MakeChemfuelFromCorpse.description>来见证他们生命的最后一次燃烧吧。</MakeChemfuelFromCorpse.description>
+  <MakeChemfuelFromCorpse.jobString>正从尸体中提炼化合物.</MakeChemfuelFromCorpse.jobString>
+
+  <MakeFertilizerFromCorpse.label>用尸体制作化肥</MakeFertilizerFromCorpse.label>
+  <MakeFertilizerFromCorpse.description>搅碎骨肉并适当发酵，这些血淋淋的化肥将会滋润植物。</MakeFertilizerFromCorpse.description>
+  <MakeFertilizerFromCorpse.jobString>正用尸体制作化肥</MakeFertilizerFromCorpse.jobString>
+
+  <BreedMaggotsWithCorpse.label>喂养大蛆</BreedMaggotsWithCorpse.label>
+  <BreedMaggotsWithCorpse.description>边缘世界里的蛆虫在食物充足的情况下，会以难以置信的效率长得又快又大。它们对尸体的新鲜度没有要求，只要别给它们喂防腐过的。</BreedMaggotsWithCorpse.description>
+  <BreedMaggotsWithCorpse.jobString>正用尸体喂养大蛆。</BreedMaggotsWithCorpse.jobString>
+
+  <MakeProteinPowderFromCorpse.label>用尸体提取蛋白粉</MakeProteinPowderFromCorpse.label>
+  <MakeProteinPowderFromCorpse.description>别担心，他们可看不出来是什么做的。</MakeProteinPowderFromCorpse.description>
+  <MakeProteinPowderFromCorpse.jobString>正在制作蛋白粉.</MakeProteinPowderFromCorpse.jobString>
+
+  <MakeProteinPowderFromMaggots.label>用大蛆提取蛋白粉</MakeProteinPowderFromMaggots.label>
+  <MakeProteinPowderFromMaggots.description>别担心，他们可看不出来是什么做的。</MakeProteinPowderFromMaggots.description>
+  <MakeProteinPowderFromMaggots.jobString>正在制作蛋白粉。</MakeProteinPowderFromMaggots.jobString>
+
+  <TakeBloodFromCorpse.label>从尸体中抽血</TakeBloodFromCorpse.label>
+  <TakeBloodFromCorpse.description>比起死者，也许活着的人更需要这些血液.</TakeBloodFromCorpse.description>
+  <TakeBloodFromCorpse.jobString>正从尸体中抽血.</TakeBloodFromCorpse.jobString>
+
+  <MakeAntisepticCorpse.label>制作防腐尸体</MakeAntisepticCorpse.label>
+  <MakeAntisepticCorpse.description>将尸体填满草药并用布匹包裹。但比木乃伊更棒的是，在任何时候拆开布带，你都能得到一具未腐烂且未风干的尸体。什么？吃它？想都别想。</MakeAntisepticCorpse.description>
+  <MakeAntisepticCorpse.jobString>制作防腐尸体.</MakeAntisepticCorpse.jobString>
+
+
+</LanguageData>

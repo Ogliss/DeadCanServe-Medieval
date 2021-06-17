@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BloodBag.label>血袋</BloodBag.label>
+  <BloodBag.description>从人类体内抽出来的血液，可用于治疗。</BloodBag.description>
+
+  <ProteinPowder.label>高钙蛋白粉</ProteinPowder.label>
+  <ProteinPowder.description>用铁罐封装且富含营养的补给品，由于做成了粉末，不太可口，但也因此没人会看得出来它的生产来源。</ProteinPowder.description>
+
+  <AntisepticCorpse.label>防腐尸体</AntisepticCorpse.label>
+  <AntisepticCorpse.description>将尸体填满草药并用布匹包裹。但比木乃伊更棒的是，在任何时候拆开布带，你都能得到一具未腐烂且未风干的尸体。什么？吃它？想都别想。</AntisepticCorpse.description>
+
+  <CorpseFertilizer.label>尸肥</CorpseFertilizer.label>
+  <CorpseFertilizer.description>搅碎骨肉并适当发酵，这些血淋淋的化肥将会滋润植物。</CorpseFertilizer.description>
+
+  <LargeMaggots.label>大蛆</LargeMaggots.label>
+  <LargeMaggots.description>这些蠕动着的虫子的确很恶心，它们所含的蛋白质却比哺乳类的肉还要高。它们是绝佳的动物饲料，人类也可以吃，但毕竟不是每个人都是贝爷。</LargeMaggots.description>
+
+
+</LanguageData>

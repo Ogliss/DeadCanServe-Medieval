@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--<MakeChemfuelFromCorpse.label>refine chemfuel from corpse</MakeChemfuelFromCorpse.label>-->
+  <!--<MakeChemfuelFromCorpse.description>Witness the last heat and light of a life.</MakeChemfuelFromCorpse.description>-->
+  <!--<MakeChemfuelFromCorpse.jobString>Refining Chemfuel from Corpse.</MakeChemfuelFromCorpse.jobString>-->
+
+  <!--<MakeFertilizerFromCorpse.label>make fertilizer from corpse</MakeFertilizerFromCorpse.label>-->
+  <!--<MakeFertilizerFromCorpse.description>Grind the meat and put them in fermentation process.Now we get the bloody fertilizer which is full of nutrient.</MakeFertilizerFromCorpse.description>-->
+  <!--<MakeFertilizerFromCorpse.jobString>Refining fertilizer from corpse.</MakeFertilizerFromCorpse.jobString>-->
+
+  <!--<MakeProteinPowderFromCorpse.label>product proteinPowder with corpse</MakeProteinPowderFromCorpse.label>-->
+  <!--<MakeProteinPowderFromCorpse.description>Don't worry,nobody will find out what he is actually eating.</MakeProteinPowderFromCorpse.description>-->
+  <!--<MakeProteinPowderFromCorpse.jobString>Producing ProteinPowder.</MakeProteinPowderFromCorpse.jobString>-->
+
+  <!--<TakeBloodFromCorpse.label>draw blood from corpse</TakeBloodFromCorpse.label>-->
+  <!--<TakeBloodFromCorpse.description>Blood is unnecessary for a dead body, but essential for the living one.</TakeBloodFromCorpse.description>-->
+  <!--<TakeBloodFromCorpse.jobString>drawing blood from Corpse.</TakeBloodFromCorpse.jobString>-->
+
+  <!--<MakeAntisepticCorpse.label>make antiseptic corpse</MakeAntisepticCorpse.label>-->
+  <!--<MakeAntisepticCorpse.description>To make an corpse filled with herbs and wrapped by cloth.Sounds like mummy,but it's better.Whenever you remove the cloth,you will still get a body without decay and dehydration.</MakeAntisepticCorpse.description>-->
+  <!--<MakeAntisepticCorpse.jobString>making antiseptic corpse.</MakeAntisepticCorpse.jobString>-->
+
+
+</LanguageData>

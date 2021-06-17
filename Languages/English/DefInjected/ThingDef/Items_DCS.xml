@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BloodBag.label>blood bag</BloodBag.label>
+  <BloodBag.description>The Blood taken from a human will be used for another human in the medical treatment.</BloodBag.description>
+
+  <ProteinPowder.label>high-calcium protein powder</ProteinPowder.label>
+  <ProteinPowder.description>Convenient supply with abundant nutrition in sealed jar.Not so palatable,but nobody will associate it with its original source.</ProteinPowder.description>
+
+  <AntisepticCorpse.label>antiseptic corpse</AntisepticCorpse.label>
+  <AntisepticCorpse.description>An corpse filled with herb and wrapped by cloth.Sounds like mummy,but it's better.Whenever you remove the cloth,you will still get a body without decay and dehydration.But don't even try to cook it as food.</AntisepticCorpse.description>
+
+  <CorpseFertilizer.label>corpse fertilizer</CorpseFertilizer.label>
+  <CorpseFertilizer.description>Grind the meat and put them in fermentation process.Now we get the bloody fertilizer which is full of nutrient.</CorpseFertilizer.description>
+
+  <LargeMaggots.label>large maggots</LargeMaggots.label>
+  <LargeMaggots.description>These squirming worms may be disgusting, but contain more proteins than mammal's meats.Great for feeding animals.Humans can eat them, but they really hate it.</LargeMaggots.description>
+
+
+</LanguageData>
